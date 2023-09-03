@@ -1,0 +1,6 @@
+EM SQUADS
+
+Realizem os passos detalhados a seguir:
+Clone o repositório que você criou. 
+Agora você vai criar uma branch e subir arquivos diferentes em cada uma dela.
+Mescle as branchs.
